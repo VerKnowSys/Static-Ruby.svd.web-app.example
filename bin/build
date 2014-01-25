@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gem install rdiscount
+ruby bin/create_html.rb
