@@ -58,13 +58,11 @@ end
 def html_text_for_file(f)
 
   markdown_text = text_of_file(f)
-
   html_text = RDiscount.new(markdown_text).to_html
   filename = File.basename(f)
 
   title = filename_with_suffix_dropped(filename)
-  style = "<style>body {margin-top: 3em;}\n.content {width: 33em; margin-left: 7em; margin-right: auto}</style>\n"
-  file_text = "<html>\n<head><title>#{title}</title>#{style}</head></body><div class=content>#{html_text}</div></body></html>"
+  file_text = "<html>\n<head><title>#{title}</title><link href=/css/style.css rel=stylesheet></head><body>#{html_text}</body></html>"
 
   return file_text
 end
