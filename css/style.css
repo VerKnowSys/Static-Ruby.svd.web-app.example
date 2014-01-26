@@ -274,9 +274,8 @@ li em {
   font-size: 11px;
 }
 
-a {
+a, a:focus, a:visited, a:hover, a:link, a:active {
   font-family: "Verdana";
-  font-weight: bold;
   font-size: 11px;
   text-decoration: none;
 }
