@@ -7,7 +7,7 @@
 
 * *2014-02-02 12:42:00* - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/5b0bf5e73edb16434e7fd9f1f4a0a407f5ec259a.png) ![sshot2](http://s.verknowsys.com/5a4b83227c27dfa2b8797767ebf6a3fdaf1ac008.png)
 
-`That's something new! Launchbar can't manage my clipboard, while Clyppan2 at the same time works just fine!` [show-image](http://s.verknowsys.com/5b0bf5e73edb16434e7fd9f1f4a0a407f5ec259a.png) [show-image2](http://s.verknowsys.com/5a4b83227c27dfa2b8797767ebf6a3fdaf1ac008.png)
+`That's something new! Launchbar can't manage my clipboard, while Clyppan2 at the same time works just fine! But it's not Launchbar's fault, but Apple OSX API issue. After relogin everything went back to normal.` [show-image](http://s.verknowsys.com/5b0bf5e73edb16434e7fd9f1f4a0a407f5ec259a.png) [show-image2](http://s.verknowsys.com/5a4b83227c27dfa2b8797767ebf6a3fdaf1ac008.png)
 
 ---
 
