@@ -5,6 +5,12 @@
 
 ---
 
+* *2014-02-02 12:27:44* - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/d6c7c8dfb5bca9efa2d15b7a0f075a39c5191177.png)
+
+`This is how "auto update" feature works under iOS7 (7.0.4). I turned auto updating "on" a couple months ago, and cried about overall iOS7 apps instability..`
+
+---
+
 * *2014-01-25 03:25:12* - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/2da5b6fd06337dd0af52d3f371a1058669fab0ea.png)
 
 `A short story about overall stability of Apple software in OSX (10.9.1)` [show-image](http://s.verknowsys.com/2da5b6fd06337dd0af52d3f371a1058669fab0ea.png)
