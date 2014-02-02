@@ -5,6 +5,12 @@
 
 ---
 
+* *2014-02-02 12:42:00* - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/5b0bf5e73edb16434e7fd9f1f4a0a407f5ec259a.png)
+
+`That's something new! Launchbar can't manage my clipboard, while Clyppan2 at the same time works just fine!` [show-image](http://s.verknowsys.com/5b0bf5e73edb16434e7fd9f1f4a0a407f5ec259a.png)
+
+---
+
 * *2014-02-02 12:27:44* - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/d6c7c8dfb5bca9efa2d15b7a0f075a39c5191177.png)
 
 `This is how "auto update" feature works under iOS7 (7.0.4). I turned auto updating "on" a couple months ago, and cried about overall iOS7 apps instability..` [show-image](http://s.verknowsys.com/d6c7c8dfb5bca9efa2d15b7a0f075a39c5191177.png)
