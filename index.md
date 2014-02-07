@@ -1,12 +1,34 @@
 
 # boyf - bugs on your face!
 
-### because bugs love me and I want to share ;)
+### because bugs love us and we want to share ;)
 
 
 ---
 
-* 2014-02-04 11:22:00 - [@zralokh3](https://twitter.com/zralokh3) ![sshot](http://s.verknowsys.com/d74f2527a5e2caa5b9299a53f0e5be36228ed278.png)
+* *2014-02-07* 02:23:04 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/2e021dda7437776247b659070237c24f32375048.png)
+`A short entry about how to fix annoing OSX sandbox "deny issues" with blued. For me it fixed issues with bluetooth keyboard caused by access denied to /Extra/nvram.-your-unique-local-id-.plist file on OSX 10.9.x.`
+`An example: `sandboxd[119] ([53]): blued(53) deny file-write-data /Extra/nvram.00020003-0004-0005-0006-000700080009.plist can be a real PITA for hackintosh users. To solve my case, you need to just edit /usr/share/sandbox/blued.sb file and:`
+
+* In "(allow file*" block add:
+
+```
+(literal "/nvram.plist")
+(literal "/Extra/nvram.00020003-0004-0005-0006-000700080009.plist")
+```
+
+* In "(allow file-read*" block add:
+
+```
+(literal "/nvram.plist")
+(literal "/Extra/nvram.00020003-0004-0005-0006-000700080009.plist")
+```
+
+* Reboot to apply changes. You can find more system sandbox definitions by doing `find / -name '*.sb'`
+
+---
+
+* *2014-02-04* 11:22:00 - [@zralokh3](https://twitter.com/zralokh3) ![sshot](http://s.verknowsys.com/d74f2527a5e2caa5b9299a53f0e5be36228ed278.png)
 
 `It's always nice beeing able to talk to people when you are at work or at home. I personally use the google chat sometime, available to me from my gmail account. So - after some time I noticed this little inconvenience, which made it pretty hard for me to understand what my interlocutor is trying to say. Figure 1 and 2 show what happens - a bug in word wrapping. There should be: 1 - "nie", 2 - "dajesz". This bug happens very often to me and I'm using the the latest Chrome version (Chrome 32.0.1700.107 m). There is a note I have to make here - the word wrap works just fine if I pop out the chat window from gmail view to an autonomous window.` [show-image](http://s.verknowsys.com/d74f2527a5e2caa5b9299a53f0e5be36228ed278.png)
 
