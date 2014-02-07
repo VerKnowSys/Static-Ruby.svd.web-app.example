@@ -1,4 +1,11 @@
 #!/bin/sh
 
-gem install rdiscount
-ruby bin/create_html.rb
+install_gem() {
+    gem install rdiscount
+}
+
+compile_markdown() {
+    ruby bin/create_html.rb
+}
+
+compile_markdown || (install_gem && compile_markdown)
