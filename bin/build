@@ -1,10 +1,12 @@
 #!/bin/sh
 
 install_gem() {
+    printf "Installing gem rdiscount\n"
     gem install rdiscount
 }
 
 compile_markdown() {
+    printf "\nCompiling markdown\n"
     ruby bin/create_html.rb
 }
 
