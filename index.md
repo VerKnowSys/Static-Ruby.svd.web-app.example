@@ -31,7 +31,9 @@ sandboxd[119] ([53]): blued(53) deny file-write-data /Extra/nvram.00020003-0004-
 
 * Reboot to apply changes. You can find more system sandbox definitions by doing:
 
-`find / -name '*.sb'`
+```
+find / -name '*.sb'
+```
 
 [show-image](http://s.verknowsys.com/cc70d45768b5696952b00c119323e8c033222a5f.png)
 
