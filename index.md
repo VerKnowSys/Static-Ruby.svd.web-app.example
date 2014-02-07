@@ -95,4 +95,4 @@ find / -name '*.sb'
 
 ---
 
-I raged. And it happened.
+`I raged. And it happened. © 2014 - [@dmilith](https://twitter.com/dmilith)`
