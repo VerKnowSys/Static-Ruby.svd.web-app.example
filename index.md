@@ -7,24 +7,31 @@
 ---
 
 * *2014-02-07* 02:23:04 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/cc70d45768b5696952b00c119323e8c033222a5f.png)
-`A short entry about how to fix annoing OSX sandbox "deny issues" with blued. For me it fixed issues with bluetooth keyboard caused by access denied to /Extra/nvram.-your-unique-local-id-.plist file on OSX 10.9.x.`
-`An example: `sandboxd[119] ([53]): blued(53) deny file-write-data /Extra/nvram.00020003-0004-0005-0006-000700080009.plist can be a real PITA for hackintosh users. To solve my case, you need to just edit /usr/share/sandbox/blued.sb file and:`
+`A short entry about how to fix annoing OSX sandbox "deny issues" with blued. For me it fixed issues with bluetooth keyboard caused by access denied to /Extra/nvram.-your-unique-local-id-.plist file on OSX 10.9.x.
+An example:`
 
-`In "(allow file*" block add:`
+```
+sandboxd[119] ([53]): blued(53) deny file-write-data /Extra/nvram.00020003-0004-0005-0006-000700080009.plist
+```
+`can be a real PITA for hackintosh users. To solve my case, you need to just edit /usr/share/sandbox/blued.sb file and:`
+
+* In "(allow file*" block add:
 
 ```
 (literal "/nvram.plist")
 (literal "/Extra/nvram.00020003-0004-0005-0006-000700080009.plist")
 ```
 
-`In "(allow file-read*" block add:`
+* In "(allow file-read*" block add:
 
 ```
 (literal "/nvram.plist")
 (literal "/Extra/nvram.00020003-0004-0005-0006-000700080009.plist")
 ```
 
-`Reboot to apply changes. You can find more system sandbox definitions by doing: find / -name '*.sb'` [show-image](http://s.verknowsys.com/cc70d45768b5696952b00c119323e8c033222a5f.png)
+* Reboot to apply changes. You can find more system sandbox definitions by doing:
+
+`find / -name '*.sb'` [show-image](http://s.verknowsys.com/cc70d45768b5696952b00c119323e8c033222a5f.png)
 
 ---
 
