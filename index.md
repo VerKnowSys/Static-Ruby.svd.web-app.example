@@ -6,6 +6,14 @@
 
 ---
 
+* *2014-02-26* 15:48:41 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/47fd1792db559665e7ce0a261220207e5b79b5e6.png)
+
+`Short story about how did Apple "fix" an issue.`
+
+[show-image](http://s.verknowsys.com/47fd1792db559665e7ce0a261220207e5b79b5e6.png)
+
+---
+
 * *2014-02-07* 02:23:04 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/cc70d45768b5696952b00c119323e8c033222a5f.png)
 `A short entry about how to fix annoing OSX sandbox "deny issues" with blued. For me it fixed issues with bluetooth keyboard caused by access denied to /Extra/nvram.-your-unique-local-id-.plist file on OSX 10.9.x.
 An example:`
