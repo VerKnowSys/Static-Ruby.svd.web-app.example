@@ -6,6 +6,15 @@
 
 ---
 
+* *2014-03-08* 15:10:00 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
+
+`Just fuck you Apple. Your MAS update system simply sucks.`
+
+[show-image](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
+
+
+---
+
 * *2014-02-26* 15:48:41 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/47fd1792db559665e7ce0a261220207e5b79b5e6.png)
 
 `Short story about how did Apple "fix" an issue.`
