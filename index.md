@@ -6,9 +6,11 @@
 
 ---
 
-* *2014-03-08* 15:10:00 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
+* *2014-03-08:2014-07-27* 15:10:00 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
 
 `Just fuck you Apple. Your MAS update system simply sucks.`
+
+`UPDATE: On 10.9.4 (and even not on hackintosh but original machine - Macbook Air), the problem remains the same..`
 
 [show-image](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
 
