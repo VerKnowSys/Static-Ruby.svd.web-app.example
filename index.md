@@ -6,6 +6,20 @@
 
 ---
 
+* *2014-11-02* 09:18:14 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/4d342e417ccb1aa269fb0fedf1fb069a41d7c181.png)
+![sshot](http://s.verknowsys.com/c533dfd106d6b34613695e3d1f0ddab4b7204185.png)
+![sshot](http://s.verknowsys.com/f0b6c410ecc97be5ab071adabd8b1e33a3182610.png)
+
+`That's just boring.`
+
+[show-image](http://s.verknowsys.com/c533dfd106d6b34613695e3d1f0ddab4b7204185.png)
+[show-image](http://s.verknowsys.com/f0b6c410ecc97be5ab071adabd8b1e33a3182610.png)
+[show-image](http://s.verknowsys.com/4d342e417ccb1aa269fb0fedf1fb069a41d7c181.png)
+
+
+
+---
+
 * *2014-03-08:2014-07-27* 15:10:00 - [@dmilith](https://twitter.com/dmilith) ![sshot](http://s.verknowsys.com/05377dc38c7b833ac8cb139eca10c1427a16f844.png)
 
 `Just fuck you Apple. Your MAS update system simply sucks.`
